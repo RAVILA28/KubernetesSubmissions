@@ -7,4 +7,4 @@ Solutions for the [DevOps with Kubernetes course]
 ### Exercise 1.1 — Log Output
 
 - **Source code:** [log_output](./log_output)
-- **Release:** [1.1](url)
+- **Release:** [1.1](https://github.com/RAVILA28/KubernetesSubmissions/releases/tag/1.1)
