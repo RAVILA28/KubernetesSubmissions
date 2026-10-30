@@ -12,3 +12,6 @@ Solutions for the [DevOps with Kubernetes course]
 
 ### Exercise 1.3 — Log Output with manifests
 - **Release:** [1.3](https://github.com/RAVILA28/KubernetesSubmissions/tree/1.3/log_output)
+
+### Exercise 1.4 — Todo App with manifests
+- **Release:** [1.4](https://github.com/RAVILA28/KubernetesSubmissions/tree/1.4/the_project)
